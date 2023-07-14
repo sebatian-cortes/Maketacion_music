@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+header img{
+    float: none;
+height: 915px;
+width: 100%;
+}
+
+header h1{
+    float: none;
+    text-align: center;
+    margin:-580px 20px 393px 20px;
+    color: #ffff;
+    font-size:152px ;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+}
+
+.img-1{
+margin: -43px -26px 0px 0px;
+float: right;
+width: 483px;
+height: 556px;
+
+
+}
+
+.sub1{
+color: rgb(253,76,92);
+font-family: 'Roboto', sans-serif;
+font-size: 44px;
+}
+
+.sub2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 44px;
+
+}
+
+.sub3{
+    color:#ffff;
+font-family: 'Roboto', sans-serif;
+font-size: 48px;
+}
+
+.palmer{
+    padding: 211px 371px;
+}
+
+.palmer p{
+    font-family: 'Roboto', sans-serif;
+font-size: 17px;
+}
+
+.boton{
+    background-color:rgb(253,76,92);
+    border-radius: 20px;
+    padding: 12px 40px;
+    color: #ffff;
+    border: 0;
+
+}
+
+.wesley{
+    width: 1090px;
+    height: 400px;
+    padding: 0px 0px 75px 371px;
+
+}
+
+.div_footer{
+    float: right;
+    margin-left: 0px;
+}
+
+.img-2{
+    margin: -43px 0px 0px -26px;
+float: left;
+width: 483px;
+height: 556px;
+}
+
+.raptis{
+    height: 500px;
+    width: 100%;
+}
+
+.img-3{
+    float: none;
+    height: 500px;
+    width: 100%;
+}
+
+.div_raptis{
+    float: none;
+    color: #ffff;
+    margin:-379px 19px 0px 1066px;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    background-color: rgb(253,76,92);
+    color: #ffff;
+    height: 389px;
+    width: 100%;
+}
+
+.Lista_inferior{
+    width: 100%;
+    height: 300px;
+}
+
+.Pricing{
+    float: right;
+    margin:59px 626px 0px 0px;
+}
+
+.Lern{
+    float: right;
+    margin: 59px 130px 0px 0px;
+}
+
+
+.Product{
+    float: left;
+    margin:59px 130px 0px 130px;
+}
+
+.Address{
+    float: left;
+    margin:59px 0px 0px 521px;
+}
+
+
+.div_footer2{
+    width: 70%;
+    height: 89px;
+    margin:0px 0px 0px 218px;
+    box-shadow: 0px -0.5px 0px 0px  #ffff;
+
+}
+
+.p1{
+    padding: 25px 0px;
+}
+
+.p2{
+    padding: 6px 0px;
+}
+
+.p3{
+    float: left;
+    padding: 35px 0px 0px 0px ;
+}
+
+.p4{
+float: right;
+padding: 35px 0px 0px 0px;
+}
